@@ -1,3 +1,2 @@
-# 224-322.py
-Moscow Polytech homeworks
+# Moscow Polytech homeworks
 by Solominov Maxim Vladimirovich 224-322
